@@ -1,0 +1,12 @@
+Name: wheezy
+IncomingDir: incoming
+TempDir: tmp
+Allow: wheezy stable>wheezy
+Cleanup: on_deny on_error
+
+Name: unstable
+IncomingDir: incoming
+TempDir: tmp
+Allow: sid unstable>sid
+Cleanup: on_deny on_error
+

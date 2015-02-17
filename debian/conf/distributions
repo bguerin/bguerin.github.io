@@ -1,0 +1,21 @@
+Origin: bguerin.github.io
+Label: debian
+Suite: stable
+Codename: wheezy
+Version: 1.0
+Architectures: source amd64 i386
+Components: main
+Description: All packages from bguerin
+DebIndices: Packages Release . .gz .bz2
+SignWith: default
+
+Origin: bguerin.github.io
+Label: debian
+Suite: unstable
+Codename: sid
+Architectures: source amd64 i386
+Components: main
+Description: All packages from bguerin
+DebIndices: Packages Release . .gz .bz2
+SignWith: default
+
