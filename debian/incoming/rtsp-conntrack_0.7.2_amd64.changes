@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Fri, 04 Oct 2013 12:04:06 +0200
+Source: rtsp-conntrack
+Binary: rtsp-conntrack-dkms
+Architecture: source all
+Version: 0.7.2
+Distribution: unstable
+Urgency: low
+Maintainer: Benoit Guerin <benoit.guerin@gmail.com>
+Changed-By: Benoit Guerin <benoit.guerin@gmail.com>
+Description: 
+ rtsp-conntrack-dkms - RTSP Conntrack module
+Changes: 
+ rtsp-conntrack (0.7.2) unstable; urgency=low
+ .
+   * Deleting traces of m-a stuff
+Checksums-Sha1: 
+ 71e06e40be7c629b04bbc60b962d56cc539b95ab 736 rtsp-conntrack_0.7.2.dsc
+ 5cf9c5485b59096e4d64a6937a85cad1a290e293 450405 rtsp-conntrack_0.7.2.tar.gz
+ 3cb75012f797ada6fdc88c6b9e68a4a17bb26494 14680 rtsp-conntrack-dkms_0.7.2_all.deb
+Checksums-Sha256: 
+ c6b08222212a851a9162f97b3194df5cbcfd004957e103ccc6a1f2ffd8110fa3 736 rtsp-conntrack_0.7.2.dsc
+ 4aa66fb1af622d488abebeac2ef392bb7f4305c3923009bedec56ca7f740dc8f 450405 rtsp-conntrack_0.7.2.tar.gz
+ d66c75e5a14f475dc2ff030f7c49d4503556278a61b2801d29e0c55abd7b6b57 14680 rtsp-conntrack-dkms_0.7.2_all.deb
+Files: 
+ ce409d0ba439aac922a9425d558d016e 736 kernel optional rtsp-conntrack_0.7.2.dsc
+ a6d3554f8267a416754c865410c88633 450405 kernel optional rtsp-conntrack_0.7.2.tar.gz
+ f1829e9d5f3efaa11975a33da3914e67 14680 kernel optional rtsp-conntrack-dkms_0.7.2_all.deb
