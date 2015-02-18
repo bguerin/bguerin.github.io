@@ -1,3 +1,6 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
 Format: 3.0 (native)
 Source: rtsp-conntrack
 Binary: rtsp-conntrack-dkms
@@ -12,8 +15,16 @@ Build-Depends: debhelper (>= 7), dkms
 Package-List: 
  rtsp-conntrack-dkms deb kernel optional
 Checksums-Sha1: 
- 5cf9c5485b59096e4d64a6937a85cad1a290e293 450405 rtsp-conntrack_0.7.2.tar.gz
+ 18490044bcf9e97834e4793188f33b9f0a848f6a 450763 rtsp-conntrack_0.7.2.tar.gz
 Checksums-Sha256: 
- 4aa66fb1af622d488abebeac2ef392bb7f4305c3923009bedec56ca7f740dc8f 450405 rtsp-conntrack_0.7.2.tar.gz
+ d79103a677f383fc85ed514d1689d7009fbd3000f0cc6a9a2d21883de4bba3bf 450763 rtsp-conntrack_0.7.2.tar.gz
 Files: 
- a6d3554f8267a416754c865410c88633 450405 rtsp-conntrack_0.7.2.tar.gz
+ 8fea54846269bfacf097e533503b1438 450763 rtsp-conntrack_0.7.2.tar.gz
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.11 (GNU/Linux)
+
+iF4EAREIAAYFAlTk90wACgkQyrspXSWfIzl9QQEAuU5Quv3b0zjepzJtDGak9n1y
+snn5D8oG62tn3y1L+bkBAJKqZMkPCXTKEIVg/DEtcriUnWkFoK+gUJNFUjTM7mhk
+=fTyG
+-----END PGP SIGNATURE-----

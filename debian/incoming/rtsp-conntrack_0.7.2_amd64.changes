@@ -1,3 +1,6 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
 Format: 1.8
 Date: Fri, 04 Oct 2013 12:04:06 +0200
 Source: rtsp-conntrack
@@ -15,14 +18,22 @@ Changes:
  .
    * Deleting traces of m-a stuff
 Checksums-Sha1: 
- 71e06e40be7c629b04bbc60b962d56cc539b95ab 736 rtsp-conntrack_0.7.2.dsc
- 5cf9c5485b59096e4d64a6937a85cad1a290e293 450405 rtsp-conntrack_0.7.2.tar.gz
- 3cb75012f797ada6fdc88c6b9e68a4a17bb26494 14680 rtsp-conntrack-dkms_0.7.2_all.deb
+ 65364e59017952734ebd6240c560995ba6ae4f98 1016 rtsp-conntrack_0.7.2.dsc
+ 18490044bcf9e97834e4793188f33b9f0a848f6a 450763 rtsp-conntrack_0.7.2.tar.gz
+ b06db7d879b8fd43dc99eca8eccfec4cc00714d4 14680 rtsp-conntrack-dkms_0.7.2_all.deb
 Checksums-Sha256: 
- c6b08222212a851a9162f97b3194df5cbcfd004957e103ccc6a1f2ffd8110fa3 736 rtsp-conntrack_0.7.2.dsc
- 4aa66fb1af622d488abebeac2ef392bb7f4305c3923009bedec56ca7f740dc8f 450405 rtsp-conntrack_0.7.2.tar.gz
- d66c75e5a14f475dc2ff030f7c49d4503556278a61b2801d29e0c55abd7b6b57 14680 rtsp-conntrack-dkms_0.7.2_all.deb
+ 912b3ad90b599e3ef7ca82ee2bc9a626cbf11523b32f658bd8217547f3658ad4 1016 rtsp-conntrack_0.7.2.dsc
+ d79103a677f383fc85ed514d1689d7009fbd3000f0cc6a9a2d21883de4bba3bf 450763 rtsp-conntrack_0.7.2.tar.gz
+ 681c1df7dbdfdc3a0831699596917e062d98791d9a85511a5871e3c25446248d 14680 rtsp-conntrack-dkms_0.7.2_all.deb
 Files: 
- ce409d0ba439aac922a9425d558d016e 736 kernel optional rtsp-conntrack_0.7.2.dsc
- a6d3554f8267a416754c865410c88633 450405 kernel optional rtsp-conntrack_0.7.2.tar.gz
- f1829e9d5f3efaa11975a33da3914e67 14680 kernel optional rtsp-conntrack-dkms_0.7.2_all.deb
+ 05f50b63b051e2534a9bb68e3481c06c 1016 kernel optional rtsp-conntrack_0.7.2.dsc
+ 8fea54846269bfacf097e533503b1438 450763 kernel optional rtsp-conntrack_0.7.2.tar.gz
+ 54bbd9e188783f0cc952b6a704882665 14680 kernel optional rtsp-conntrack-dkms_0.7.2_all.deb
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.11 (GNU/Linux)
+
+iF4EAREIAAYFAlTk90wACgkQyrspXSWfIzmDGAD/asI4J9UzkQzeIBjrQzcTxJRz
+ngVyiI394gGbWmJ0+ZwA/jXHHINF1AAlrCI600EmXvGnOjussCSozgwF/R2ySfI/
+=AJgB
+-----END PGP SIGNATURE-----
