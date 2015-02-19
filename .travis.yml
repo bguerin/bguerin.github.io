@@ -23,4 +23,4 @@ script:
 after_success:
   - git add debian/*
   - git commit -m"Incoming packages processed"
-  - git@github.com:bguerin/bguerin.github.io.git
+  - git push git@github.com:bguerin/bguerin.github.io.git
