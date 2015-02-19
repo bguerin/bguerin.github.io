@@ -21,7 +21,7 @@ script:
   - files=(debian/incoming/*.changes debian/incoming/*.deb) ; if [ ${#files[@]} -gt 0 ] ; then reprepro -V -b debian processincoming unstable ; fi
 
 after_success:
-  - git add debian/*
+  - git add --all debian/*
   - git commit -m"Incoming packages processed"
   - git branch incoming-processed
   - git checkout master
