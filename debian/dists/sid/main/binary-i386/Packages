@@ -1,0 +1,36 @@
+Package: benoitguerin-keyring
+Version: 1.0.0
+Architecture: all
+Maintainer: Benoit GUERIN <benoit.guerin@gmail.com>
+Installed-Size: 32
+Depends: gnupg
+Priority: optional
+Section: devel
+Filename: pool/main/b/benoitguerin-keyring/benoitguerin-keyring_1.0.0_all.deb
+Size: 3602
+SHA256: 5a1115ffadfd3178b6b83c508d353f1e55fae6af8cc951cc9ace9b91e3efcfcd
+SHA1: 7de3cc63bc9a37c03f563be917aab41d92c6a613
+MD5sum: 4393f2329a759f17ad3e47d2f6d4a933
+Description: GnuPG key of the Benoit GUERIN's repository
+ The repository of Benoit Guerin digitally signs its Release files.
+ This package contains the repository key used for that.
+
+Package: rtsp-conntrack-dkms
+Source: rtsp-conntrack
+Version: 0.7.2
+Architecture: all
+Maintainer: Benoit Guerin <benoit.guerin@gmail.com>
+Installed-Size: 45
+Depends: dkms (>= 1.95)
+Homepage: https://github.com/maru-sama/rtsp-linux-v2.6
+Priority: optional
+Section: kernel
+Filename: pool/main/r/rtsp-conntrack/rtsp-conntrack-dkms_0.7.2_all.deb
+Size: 14680
+SHA256: 681c1df7dbdfdc3a0831699596917e062d98791d9a85511a5871e3c25446248d
+SHA1: b06db7d879b8fd43dc99eca8eccfec4cc00714d4
+MD5sum: 54bbd9e188783f0cc952b6a704882665
+Description: RTSP Conntrack module
+ This package contains a netfilter module to track RTSP connections to
+ do transparent NAT.
+

@@ -1,0 +1,44 @@
+Origin: bguerin.github.io
+Label: debian
+Suite: unstable
+Codename: sid
+Date: Thu, 19 Feb 2015 21:46:41 UTC
+Architectures: amd64 i386
+Components: main
+Description: All packages from bguerin
+MD5Sum:
+ 1a936ac433723ab49962277037cd3506 1258 main/binary-amd64/Packages
+ e8b0f7d5a6a24ac884dbd9e778522b00 686 main/binary-amd64/Packages.gz
+ 5736278d21dbb89b58607debf5ddf701 771 main/binary-amd64/Packages.bz2
+ fab0c868ea1c9760bebdb838bf8fb8ce 133 main/binary-amd64/Release
+ 1a936ac433723ab49962277037cd3506 1258 main/binary-i386/Packages
+ e8b0f7d5a6a24ac884dbd9e778522b00 686 main/binary-i386/Packages.gz
+ 5736278d21dbb89b58607debf5ddf701 771 main/binary-i386/Packages.bz2
+ 5929515474beed3781a7c36c21b5cd0e 132 main/binary-i386/Release
+ eb7ce51d88f3b68622a2085ec207ad81 1947 main/source/Sources
+ 0740731101d7ffa276a9158b5bf10e53 828 main/source/Sources.gz
+ 464bcf50118ebf49934efc523cbbecdd 134 main/source/Release
+SHA1:
+ b6e7b7702851db2f690a6a6446c1f13d9569e7b9 1258 main/binary-amd64/Packages
+ ff91ef0af1d9ad9b9aa4c3fe895b66f1eb2bb7b4 686 main/binary-amd64/Packages.gz
+ 00309281b2ca4f3583766c50e5c27180f4a93833 771 main/binary-amd64/Packages.bz2
+ 8d94722d80a99b5ba1a96dc5995957a0ca2b1674 133 main/binary-amd64/Release
+ b6e7b7702851db2f690a6a6446c1f13d9569e7b9 1258 main/binary-i386/Packages
+ ff91ef0af1d9ad9b9aa4c3fe895b66f1eb2bb7b4 686 main/binary-i386/Packages.gz
+ 00309281b2ca4f3583766c50e5c27180f4a93833 771 main/binary-i386/Packages.bz2
+ eb20570db60fcbd0f2e71c72cbe44d0413e1d60c 132 main/binary-i386/Release
+ 59fa910a6cad83a8a3da32510b976b99d9036ff6 1947 main/source/Sources
+ 4bc4dab027c5eac341a957dbbeb022a3caea0716 828 main/source/Sources.gz
+ 7708b69271736805d4deb890652624c5a72e6384 134 main/source/Release
+SHA256:
+ ded996b492ff5ee1503a1f3e8df6da44a686d59f9d6127118c4b2dae5ac2c553 1258 main/binary-amd64/Packages
+ d026caaf9c18648c9801327bb6c2b573f1eb627c0e8624f13bcb81102eb71398 686 main/binary-amd64/Packages.gz
+ 6575b3538875de414546cbbd04aee62993263bef3cfa61a873a4ab985f5f34e9 771 main/binary-amd64/Packages.bz2
+ 9be015214b0eb59885ae7d67a5424919b70146f8c8cba4bf3b06094b481e8ce1 133 main/binary-amd64/Release
+ ded996b492ff5ee1503a1f3e8df6da44a686d59f9d6127118c4b2dae5ac2c553 1258 main/binary-i386/Packages
+ d026caaf9c18648c9801327bb6c2b573f1eb627c0e8624f13bcb81102eb71398 686 main/binary-i386/Packages.gz
+ 6575b3538875de414546cbbd04aee62993263bef3cfa61a873a4ab985f5f34e9 771 main/binary-i386/Packages.bz2
+ 2b30b11a56f098b33e184f80103e277df2b4a21180971a1191e68a74cbc753c5 132 main/binary-i386/Release
+ dc202f0612d6c5dd50c12dde4c8290ebde2ed7a275d738a300cec3a65378b66e 1947 main/source/Sources
+ 19861183a441f4ae329048135f4ccc4072b0f2dc400b83bf6432907725935e20 828 main/source/Sources.gz
+ 8a10553c17253148bf98cc5051b78fd3a7ba2132e3cdf3e65531eaf70b5ea556 134 main/source/Release
