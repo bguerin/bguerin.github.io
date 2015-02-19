@@ -23,4 +23,8 @@ script:
 after_success:
   - git add debian/*
   - git commit -m"Incoming packages processed"
+  - git branch incoming-processed
+  - git checkout master
+  - git merge incoming-processed
+  - git branch -d incoming-processed
   - git push git@github.com:bguerin/bguerin.github.io.git
