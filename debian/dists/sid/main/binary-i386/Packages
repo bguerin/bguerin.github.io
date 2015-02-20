@@ -1,19 +1,22 @@
 Package: benoitguerin-keyring
-Version: 1.0.0
+Version: 1.0.1
 Architecture: all
 Maintainer: Benoit GUERIN <benoit.guerin@gmail.com>
 Installed-Size: 32
 Depends: gnupg
 Priority: optional
 Section: devel
-Filename: pool/main/b/benoitguerin-keyring/benoitguerin-keyring_1.0.0_all.deb
-Size: 3602
-SHA256: 5a1115ffadfd3178b6b83c508d353f1e55fae6af8cc951cc9ace9b91e3efcfcd
-SHA1: 7de3cc63bc9a37c03f563be917aab41d92c6a613
-MD5sum: 4393f2329a759f17ad3e47d2f6d4a933
+Filename: pool/main/b/benoitguerin-keyring/benoitguerin-keyring_1.0.1_all.deb
+Size: 3734
+SHA256: 999181a1cbbdf64c3c07e1aa2e5d34d6534a4435cad6e80bcde56c1c9bb95a03
+SHA1: 9d42b94c0f157944112e3c4dd1bcf5691cf0354b
+MD5sum: 52e1bb62670c4d27631aec03162eaa01
 Description: GnuPG key of the Benoit GUERIN's repository
  The repository of Benoit Guerin digitally signs its Release files.
  This package contains the repository key used for that.
+ Installing this package will install Benoit GUERIN's public key
+ as a trust one onto apt-key system, thus trusting packages from
+ his repository.
 
 Package: rtsp-conntrack-dkms
 Source: rtsp-conntrack
