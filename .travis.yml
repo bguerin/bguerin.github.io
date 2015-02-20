@@ -22,7 +22,7 @@ script:
 
 after_success:
   - git add --all debian/*
-  - git commit -m"Incoming packages processed"
+  - git commit -m"Incoming packages processed [ci skip]"
   - git branch incoming-processed
   - git checkout master
   - git merge incoming-processed
