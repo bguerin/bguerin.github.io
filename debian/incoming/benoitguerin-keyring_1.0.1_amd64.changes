@@ -1,0 +1,40 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Format: 1.8
+Date: Fri, 20 Feb 2015 22:09:56 +0100
+Source: benoitguerin-keyring
+Binary: benoitguerin-keyring
+Architecture: source all
+Version: 1.0.1
+Distribution: unstable
+Urgency: low
+Maintainer: Benoit GUERIN <benoit.guerin@gmail.com>
+Changed-By: Benoit GUERIN <bienoit.guerin@gmail.com>
+Description: 
+ benoitguerin-keyring - GnuPG key of the Benoit GUERIN's repository
+Changes: 
+ benoitguerin-keyring (1.0.1) unstable; urgency=low
+ .
+   * Update standards
+   * Fix Lintian warnings
+Checksums-Sha1: 
+ 7f0f70a5650d4b3dcb20a983862274f0d0baf4ed 859 benoitguerin-keyring_1.0.1.dsc
+ 9866c7566c0a20a39274c4f3d5206ea7129a4d48 440034 benoitguerin-keyring_1.0.1.tar.gz
+ f8fe0ffe4345da84aa2831a18da26644a9f3568c 3732 benoitguerin-keyring_1.0.1_all.deb
+Checksums-Sha256: 
+ 99eb7b629f3e0fcd746825ee45a465c11a58c6c1dda5961a5395103237db2928 859 benoitguerin-keyring_1.0.1.dsc
+ ad908d4502bfd0255e42751309bf79b9f6fc50347293ca997d9328ea9d15d2d7 440034 benoitguerin-keyring_1.0.1.tar.gz
+ 109040c70ce5a507d2aee9f3c71c04c04c2f1ed07a7461c74c3d64fc6992a54c 3732 benoitguerin-keyring_1.0.1_all.deb
+Files: 
+ 0597a23da29098485e1ad5e3459ebbfe 859 devel optional benoitguerin-keyring_1.0.1.dsc
+ abf59f41def78ecfaeaf254516096f72 440034 devel optional benoitguerin-keyring_1.0.1.tar.gz
+ 7ffbc2ae812dea37ef354f73131bd254 3732 devel optional benoitguerin-keyring_1.0.1_all.deb
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.11 (GNU/Linux)
+
+iF4EAREIAAYFAlTnpZYACgkQyrspXSWfIzkLkgD8Cse3YCgKi00BuY83Bp4sdrtR
+LfKrt5yZDg1Ol/VBqEUBAKWMwjO10oBEzd+bB4NnxTVVYqVfV2N1rqsm50qpx78O
+=OLUw
+-----END PGP SIGNATURE-----
