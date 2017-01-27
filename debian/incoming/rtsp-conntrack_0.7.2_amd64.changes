@@ -1,0 +1,39 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Format: 1.8
+Date: Fri, 04 Oct 2013 12:04:06 +0200
+Source: rtsp-conntrack
+Binary: rtsp-conntrack-dkms
+Architecture: source all
+Version: 0.7.2
+Distribution: unstable
+Urgency: low
+Maintainer: Benoit Guerin <benoit.guerin@gmail.com>
+Changed-By: Benoit Guerin <benoit.guerin@gmail.com>
+Description: 
+ rtsp-conntrack-dkms - RTSP Conntrack module
+Changes: 
+ rtsp-conntrack (0.7.2) unstable; urgency=low
+ .
+   * Deleting traces of m-a stuff
+Checksums-Sha1: 
+ 8da463cc5d7f7906f3802f9246fb65e0d1e95e45 1016 rtsp-conntrack_0.7.2.dsc
+ ea42230fae63a4fedfadf0e3f46d0249348b11e9 453860 rtsp-conntrack_0.7.2.tar.gz
+ ec0d13dc01fd437b9d85c06f73e927f69a0b5dcb 14658 rtsp-conntrack-dkms_0.7.2_all.deb
+Checksums-Sha256: 
+ 30759bf149d96b2a78c1c4257062023c177c8b5360e19dfecd1dee5fb9cac22b 1016 rtsp-conntrack_0.7.2.dsc
+ 13ffcc67bc71893a71e74160fdc58772297155e50338888dab76a196e014926e 453860 rtsp-conntrack_0.7.2.tar.gz
+ cb29faa5d58a13d64822c5f75413403d4a43506304f543d2849a0c1ff31084cd 14658 rtsp-conntrack-dkms_0.7.2_all.deb
+Files: 
+ 5ff7f97772479d5b09c66a62dc764f90 1016 kernel optional rtsp-conntrack_0.7.2.dsc
+ 1cf81f03f5b7dd43d9f1b772a9a0bc8c 453860 kernel optional rtsp-conntrack_0.7.2.tar.gz
+ 14cc0d3e4444654d385eed875e2baaae 14658 kernel optional rtsp-conntrack-dkms_0.7.2_all.deb
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.11 (GNU/Linux)
+
+iF4EAREIAAYFAliLIv0ACgkQyrspXSWfIzmx7wD/aprmVqKtQ1mvcP3OrH1mRz99
+GnDf0U+OZ/M22FYC+woA/2d4QZiwLdNauLIl7MnMCUP/hAoneVvBTZiHaoA/sp8e
+=yxVP
+-----END PGP SIGNATURE-----
